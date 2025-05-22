@@ -64,7 +64,7 @@ This project analyzes a financial dataset containing department-level monthly bu
 ## 🧠 Author
 
 **Mohammed T.** — Python Developer | Data Analyst | Power BI Specialist  
-🔗 [Upwork Profile](https://www.upwork.com/freelancers/~012...)  
+🔗 [Upwork Profile](https://www.upwork.com/freelancers/~01249638f009ecc3c2)  
 📫 Reach me for freelance data analytics and automation projects!
 
 ![Total Spending by Department](image/output1.png)
