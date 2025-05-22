@@ -67,6 +67,6 @@ This project analyzes a financial dataset containing department-level monthly bu
 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~012...)  
 📫 Reach me for freelance data analytics and automation projects!
 
-![Total Spending by Department](output1.png)
-![Total Spending by Department](output2.png)
-![Total Spending by Department](output3.png)
+![Total Spending by Department](image/output1.png)
+![Total Spending by Department](image/output2.png)
+![Total Spending by Department](image/output3.png)
